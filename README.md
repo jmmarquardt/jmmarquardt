@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John-Mike.
-- 👀 I’m interested in game development in Unity and C#.
+- 👀 I’m interested in game development and in Unity and C# and desktop application development in C#, C++ or Java.
 - 🌱 I’m currently learning AI design patterns in Unity and C#.
-- 💞️ I’m looking to collaborate on 2d and 3d games and applications built in Unity.
+- 💞️ I’m looking to collaborate on any games or desktop applications built in any of the above languages.
 - 📫 How to reach me jmmarquardt@gmail.com
 
 <!---
