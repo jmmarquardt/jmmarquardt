@@ -1,5 +1,6 @@
 - 👋 Hi, I’m John-Mike.
-- 👀 I’m interested in game development and in Unity and C# and desktop application development in C#, C++ or Java.
+- I recently cleaned out a whole lot of junk repos from here.
+- I use Tortoise SVN professionally, this is just a personal github that I occasionally use for side projects. 
 - 💻 I mainly build desktop applications for Windows computers to operate automated laboratory instruments for chemical analyses.
 - 📫 How to reach me jmmarquardt@gmail.com
 
